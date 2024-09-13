@@ -214,5 +214,5 @@ TampilData menerima data yang dipassing dan menampilkan informasi yang sesuai.
 
 ## Screenshot
 Contoh :
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+![Lampiran Form](form2.png)
+![Lampiran Hasil](hasil2.png)
